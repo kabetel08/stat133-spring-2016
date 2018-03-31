@@ -1,3 +1,4 @@
 # stat133-spring-2016
 
-Add a useful description to this file.
+Third party libraries used in the project 
+[Yelp Data Set Utilities and Examples] (https://github.com/Yelp/dataset-examples)
